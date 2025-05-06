@@ -6,10 +6,8 @@ The Crop Recommendation System is designed to assist farmers in selecting the mo
 ## Project Structure
 ```
 crop-recommendation-system
-├── data
-│   └── crop_dataset.csv          # Dataset used for training and evaluating the model
-├── notebooks
-│   └── crop_recommendation_system.ipynb  # Jupyter notebook containing the main code
+├── crop_dataset.csv          # Dataset used for training and evaluating the model
+├── crop_recommendation_system.ipynb  # Jupyter notebook containing the main code
 ├── requirements.txt               # Lists the dependencies required for the project
 ├── .gitignore                     # Specifies files and directories to be ignored by Git
 └── README.md                      # Documentation for the project
