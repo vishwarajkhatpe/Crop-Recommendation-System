@@ -10,12 +10,6 @@ crop-recommendation-system
 │   └── crop_dataset.csv          # Dataset used for training and evaluating the model
 ├── notebooks
 │   └── crop_recommendation_system.ipynb  # Jupyter notebook containing the main code
-├── src
-│   ├── __init__.py               # Marks the directory as a Python package
-│   ├── data_preprocessing.py      # Functions for preprocessing the dataset
-│   ├── model_training.py          # Code for training the machine learning model
-│   ├── model_evaluation.py        # Functions for evaluating the model's performance
-│   └── prediction.py              # Functions for making predictions using the trained model
 ├── requirements.txt               # Lists the dependencies required for the project
 ├── .gitignore                     # Specifies files and directories to be ignored by Git
 └── README.md                      # Documentation for the project
