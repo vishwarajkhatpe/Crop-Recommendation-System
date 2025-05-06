@@ -1,0 +1,2 @@
+# Crop-Recommendation-System
+A machine learning-based solution to recommend the most suitable crop for a given set of environmental conditions. This project analyzes soil and weather parameters such as nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall to provide data-driven crop recommendations. It includes data preprocessing, visualization, model training (Random Forest Classifier), and an interactive interface for real-time predictions. Designed to assist farmers in improving agricultural productivity and sustainability.
